@@ -25,7 +25,7 @@ sol = np.linalg.solve(a,b)
 print (sol)
 ```
 ## Output:
-![github logo](numpy.png)
+![github logo](sys_lin_alg.png)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
